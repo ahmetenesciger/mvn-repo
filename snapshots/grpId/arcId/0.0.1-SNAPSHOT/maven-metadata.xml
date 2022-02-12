@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
-  <groupId>com.mesh</groupId>
-  <artifactId>projectOfMesh</artifactId>
+  <groupId>grpId</groupId>
+  <artifactId>arcId</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20220209.202907</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20220212.185814</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20220209202907</lastUpdated>
+    <lastUpdated>20220212185814</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20220209.202907-2</value>
-        <updated>20220209202907</updated>
+        <value>0.0.1-20220212.185814-1</value>
+        <updated>20220212185814</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20220209.202907-2</value>
-        <updated>20220209202907</updated>
+        <value>0.0.1-20220212.185814-1</value>
+        <updated>20220212185814</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
